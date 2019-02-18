@@ -1,5 +1,7 @@
 public class TestNGAnnotations{
-
+/**
+This class demostrates the execution order of TestNG annotations 
+*/
 @Test
 public void test1(){
 System.out.println("Test1");
